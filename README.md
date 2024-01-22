@@ -5,7 +5,7 @@ This repository demonstrates basic CRUD (Create, Read, Update, Delete) operation
 Key Features:
 1. Creates a new database "testdb2" and a table "studentssss" with name and age columns.
 2. Inserts multiple student records using prepared statements and executemany.
-3. Performs queries to:
+3. Performs queries to:.
 	a. Search for students whose names start with "f".
 	b. Update all students with names starting with "f" to have age 19.
 	c. Display all students in the table.
